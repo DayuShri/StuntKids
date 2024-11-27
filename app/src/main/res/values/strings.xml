@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StuntKids</string>
+    <string name="welcome_to_the_stunting_app_detector">Welcome to the Stunting App Detector</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="v_0_0_1">v.0.0.1</string>
+    <string name="login1">Login</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_here"><u> Create Here</u></string>
+    <string name="sign_here"><u> Sign Here</u></string>
+</resources>
